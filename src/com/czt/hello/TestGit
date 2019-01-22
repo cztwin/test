@@ -1,0 +1,3 @@
+public class TestGit{
+  private String str = "this is testGit"
+}
